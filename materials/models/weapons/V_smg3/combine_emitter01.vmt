@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+
+	"$basetexture" "models/Weapons/V_smg3/combine_emitter01"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5]"
+	"$envmapmask" "models/Weapons/V_smg3/combine_emitter01_mask"
+	"$selfillum" 1
+}
+
+
+
+

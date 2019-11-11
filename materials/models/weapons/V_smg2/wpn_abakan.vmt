@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\V_smg2\wpn_abakan"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models\weapons\V_smg2\wpn_abakan_normal"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+}
